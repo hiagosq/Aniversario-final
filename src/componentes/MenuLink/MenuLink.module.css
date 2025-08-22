@@ -1,0 +1,11 @@
+.link {
+    font-size: 1.5rem;
+    font-weight: 1.5rem;
+    color: var(--fonte-nav);
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.linkDestacado{
+    text-decoration: underline;
+}
