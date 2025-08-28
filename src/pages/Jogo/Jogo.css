@@ -1,0 +1,54 @@
+/* body, html, .App {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+  font-family: sans-serif;
+  background-color: #fef9f9;
+}
+
+.App {
+  text-align: center;
+  padding-top: 100px;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+.buttons {
+  position: relative;
+  z-index: 1;
+} */
+
+.yes-button {
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+.no-button {
+  position: absolute;
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  background-color: #f44336;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: top 0.2s ease, left 0.2s ease;
+}
+
+.message {
+  margin-top: 30px;
+  font-size: 1.5rem;
+  color: #4caf50;
+  font-weight: bold;
+}

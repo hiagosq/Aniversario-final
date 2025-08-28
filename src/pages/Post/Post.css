@@ -54,22 +54,26 @@
 }
 
 .post-markdown-container {
-  display: flex;
-   
-  /* grid-template-columns: repeat(4, 1fr); 4 colunas */
-  /* gap: 16px; espaçamento entre as imagens */
-  max-width: 300px;
-  margin: 0 auto;
-  padding: 20px;
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
 }
 
 .post-markdown-container img {
-  width: 100%;
+  width: 300px;
   aspect-ratio: 1 / 1; /* mantém o quadrado */
   object-fit: cover;
   border-radius: 8px; /* opcional */
   display: block;
+  margin-left: 10px;
+  transition: transform 0.3s ease;
 }
+
+.img {
+  transform: translateY(-10px) scale(1.05);
+}
+
 @media (max-width: 1100px) {
     .post-markdown-container p {
         margin-bottom: 2rem;
@@ -81,10 +85,5 @@
         font-size: 1.5rem;
         line-height: 2rem;
         margin-bottom: 1.5rem;
-    }
-
-    .post-markdown-container p {
-        font-size: 1rem;
-        line-height: 1.75rem;
     }
 }

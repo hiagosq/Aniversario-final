@@ -2,38 +2,32 @@
     {
         "id": 1,
         "titulo": "Fotos Antigas",
-        "texto": "![foto da Rafa e Hiago](/assents/fotosAntigas/img14.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img15.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img20.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img21.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img22.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img24.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img26.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img27.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img28.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img29.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img30.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img31.jpg) \n ![foto da Rafa e Hiago](/assents/fotosAntigas/img32.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img46.webp) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img51.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img52.jpg)"
+        "texto": "![foto da Rafa e Hiago](/assents/fotosAntigas/img14.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img15.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img20.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img21.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img22.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img24.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img26.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img27.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img28.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img29.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img30.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img31.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img32.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img46.webp) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img51.jpg) \n\n ![foto da Rafa e Hiago](/assents/fotosAntigas/img52.jpg)"
     },
     {
         "id": 2,
-        "titulo": "Playlist da Rafa"
+        "titulo": "Playlist da Rafa",
+        "texto": "[Link Playlist](https://open.spotify.com/playlist/0yPiiZ70hEwRq3JZaCiCmi?si=O_EtZLj6Rda31XTdy7JKsg)"
     },
     {
         "id": 3,
         "titulo": "Quem é a Rafa?",
-        "texto": "![foto da Rafa e Hiago](/assents/fotosAntigas/img2.jpg)![foto da Rafa e Hiago](/assents/fotosAntigas/img3.jpg)![foto da Rafa e Hiago](/assents/fotosAntigas/img13.jpg)![foto da Rafa e Hiago](/assents/fotosAntigas/img19.jpg)![foto da Rafa e Hiago](/assents/fotosAntigas/img34.jpg)![foto da Rafa e Hiago](/assents/fotosAntigas/img45.jpg)![foto da Rafa e Hiago](/assents/fotosAntigas/img50.jpg)"
+        "texto": "![foto da Rafa e Hiago](/assents/Quem/img2.jpg) \n\n ![foto da Rafa e Hiago](/assents/Quem/img3.jpg) \n\n![foto da Rafa e Hiago](/assents/Quem/img13.jpg) \n\n ![foto da Rafa e Hiago](/assents/Quem/img19.jpg) \n\n ![foto da Rafa e Hiago](/assents/Quem/img34.jpg) \n\n ![foto da Rafa e Hiago](/assents/Quem/img45.jpg) \n\n ![foto da Rafa e Hiago](/assents/Quem/img50.jpg)"
     },
     {
         "id": 4,
-        "titulo": "Feitos da Rafa"
+        "titulo": "Feitos da Rafa",
+        "texto":"![foto da Rafa e Hiago](/assents/Feitos/feitos1.png) \n\n\n ![foto da Rafa e Hiago](/assents/Feitos/feitos2.png) \n\n\n ![foto da Rafa e Hiago](/assents/Feitos/feitos3.png) \n\n ![foto da Rafa e Hiago](/assents/Feitos/feitos4.png) "
     },
     {
         "id": 5,
         "titulo": "Haru, o que come? Onde vive?",
-        "texto":"![foto da Rafa e Hiago](/assents/fotosAntigas/img4.jpg) ![foto da Rafa e Hiago](/assents/fotosAntigas/img38.jpg) ![foto da Rafa e Hiago](/assents/fotosAntigas/img39.jpg) ![foto da Rafa e Hiago](/assents/fotosAntigas/img42.jpg)"
+        "texto":"![foto da Rafa e Hiago](/assents/Haru/img4.jpg) \n\n ![foto da Rafa e Hiago](/assents/Haru/img38.jpg) \n\n ![foto da Rafa e Hiago](/assents/Haru/img39.jpg) \n\n ![foto da Rafa e Hiago](/assents/Haru/img42.jpg)"
     },
     {
         "id": 6,
-        "titulo": "Rafinha"
-    },
-    {
-        "id": 7,
-        "titulo": "Poemas para Rafa"
-    },
-    {
-        "id": 8,
-        "titulo": "Renovação de Contrato",
-        "texto": "",
-        "tipo": "amizade"
+        "titulo": "Rafinha",
+        "texto": "\n\n ![foto da Rafa e Hiago](/assents/Rafinha/img53.jpg)\n\n ![foto da Rafa e Hiago](/assents/Rafinha/img54.jpg)\n\n ![foto da Rafa e Hiago](/assents/Rafinha/img55.jpg)\n\n ![foto da Rafa e Hiago](/assents/Rafinha/img56.jpg)\n\n ![foto da Rafa e Hiago](/assents/Rafinha/img57.jpg)\n\n ![foto da Rafa e Hiago](/assents/Rafinha/img58.jpg)\n\n ![foto da Rafa e Hiago](/assents/Rafinha/img59.jpg)\n\n ![foto da Rafa e Hiago](/assents/Rafinha/img60.jpg)\n\n ![foto da Rafa e Hiago](/assents/Rafinha/img61.jpg)\n\n ![foto da Rafa e Hiago](/assents/Rafinha/img62.jpg) \n\n ![foto da Rafa e Hiago](/assents/Rafinha/img63.jpg) \n\n ![foto da Rafa e Hiago](/assents/Rafinha/img64.jpg) \n\n ![foto da Rafa e Hiago](/assents/Rafinha/img66.jpg) \n\n ![foto da Rafa e Hiago](/assents/Rafinha/img67.jpg) \n\n ![foto da Rafa e Hiago](/assents/Rafinha/img68.jpg) \n\n ![foto da Rafa e Hiago](/assents/Rafinha/img69.jpg) \n\n ![foto da Rafa e Hiago](/assents/Rafinha/img70.jpg) \n\n ![foto da Rafa e Hiago](/assents/Rafinha/img71.jpg) \n\n ![foto da Rafa e Hiago](/assents/Rafinha/img72.jpg) \n\n ![foto da Rafa e Hiago](/assents/Rafinha/img73.jpg) \n\n ![foto da Rafa e Hiago](/assents/Rafinha/img74.jpg) \n\n ![foto da Rafa e Hiago](/assents/Rafinha/img75.jpg)"
     }
+   
 ]
